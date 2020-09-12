@@ -1,0 +1,4 @@
+postgres
+usuario postgres
+pass. spider
+port: 5432
